@@ -8,6 +8,7 @@
  *
  * Return: pointer to the root node of the created AVL tree, or NULL on failure
  */
+
 avl_t *sort_insert(int *array, int min, int max)
 {
 	int half;
