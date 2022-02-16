@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-#include <stdio.h>
+
 /**
  * array_to_heap - builds a Max Binary Heap tree from an array
  * @array: Array with numbers to create in to Max Binary heap
